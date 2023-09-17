@@ -1,10 +1,30 @@
 - 👋 Hi, I’m @harisahmedjs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+                                                                              Hi 👋, I'm Ahsan Ali
+  
+A passionate frontend developer from pakistan
+AhsanAlijs
 
-<!---
-harisahmedjs/harisahmedjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning javascript,etc
+
+👨‍💻 All of my projects are available at https://AhsanAlijs.github.io/Portfolio-new/
+
+💬 Ask me about html Css JavaScript and etc
+
+📫 How to reach me ahsanali45444@gmail.com
+
+Connect with me:
+https://www.linkedin.com/in/ahsan-ali-282284273/ https://www.facebook.com/ahsanalijs https://www.instagram.com/ahsan_____________ali/
+
+Languages and Tools:
+bootstrap css3 git html5 illustrator javascript photoshop tailwind
+
+Support:
+Ahsan Ali
+
+
+
+AhsanAlijs
+
+ AhsanAlijs
+
+AhsanAlijs
